@@ -1,7 +1,11 @@
 ### Hi there 👋
+my name is Zong Han Yang  
+I’m currently learning machine learning and deep learning with python  
+just a beginner but i will try my best!!  
+"Practice Makes Perfect"
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=littfi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=littfi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
